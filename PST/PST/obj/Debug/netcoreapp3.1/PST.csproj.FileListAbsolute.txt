@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PST\PST\bin\Debug\netcoreapp3.1\PST.exe
+C:\Users\asus\Desktop\PST\PST\bin\Debug\netcoreapp3.1\PST.deps.json
+C:\Users\asus\Desktop\PST\PST\bin\Debug\netcoreapp3.1\PST.runtimeconfig.json
+C:\Users\asus\Desktop\PST\PST\bin\Debug\netcoreapp3.1\PST.runtimeconfig.dev.json
+C:\Users\asus\Desktop\PST\PST\bin\Debug\netcoreapp3.1\PST.dll
+C:\Users\asus\Desktop\PST\PST\bin\Debug\netcoreapp3.1\PST.pdb
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.AssemblyInfo.cs
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.dll
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.pdb
+C:\Users\asus\Desktop\PST\PST\obj\Debug\netcoreapp3.1\PST.genruntimeconfig.cache
